@@ -13,8 +13,10 @@ after this we need to ssh both the master and agent using their ip address in tw
 
 ![Screenshot (142)](https://github.com/user-attachments/assets/b2f5ae68-ee29-4d37-b1ec-6491ecbdd930)
 
+agent
 ![Screenshot (143)](https://github.com/user-attachments/assets/4d3065c3-bd97-46a8-bd05-b732e06f03fd)
 
+master
 ![Screenshot (144)](https://github.com/user-attachments/assets/cece43ab-68fc-40e4-8625-417de621465a)
 
 
